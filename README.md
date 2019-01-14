@@ -12,3 +12,4 @@ Based on https://github.com/rwieruch/minimal-react-webpack-babel-setup
 6. Goto http://localhost:3000
 
 If you would like to have webpack rebuild your javascript any time your React code changes, enter `npm run start` in a different terminal.
+# fashion-suggestion-ui
