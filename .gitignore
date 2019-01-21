@@ -139,6 +139,7 @@ target/
 
 # pyenv
 .python-version
+*.h5
 
 # celery beat schedule file
 celerybeat-schedule.*

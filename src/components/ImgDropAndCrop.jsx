@@ -4,7 +4,6 @@ import Dropzone from 'react-dropzone';
 import ReactCrop from 'react-image-crop';
 import LinearIndeterminate from './CircularDeterminate.jsx';
 import ImageGrid from './ImageGrid.jsx';
-// import 'react-image-crop/dist/ReactCrop.css';
 import './custom-image-crop.css';
 import './drop-crop.css';
 
@@ -146,7 +145,7 @@ class ImgDropAndCrop extends Component {
 
             });
 
-            this.setState({ previewText: `This is ${category}` });
+            this.setState({ previewText: `This are hardcoded similar images.` });
           }
           );
       }
